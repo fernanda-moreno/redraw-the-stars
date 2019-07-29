@@ -1,4 +1,5 @@
 # RedrawTheStars
+Place stars in the night sky and create your own constellations!
 
 ## Installation
 1. To run this application on your computer, download [Processing](https://processing.org/download/).
